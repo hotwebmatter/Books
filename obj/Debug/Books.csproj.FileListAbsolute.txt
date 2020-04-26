@@ -1,0 +1,11 @@
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\bin\Debug\MMABooks.accdb
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\bin\Debug\Books.exe.config
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\bin\Debug\Books.exe
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\bin\Debug\Books.pdb
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.csprojAssemblyReference.cache
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.Form1.resources
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.Properties.Resources.resources
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.csproj.GenerateResource.cache
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.exe
+C:\Users\hotwe\Source\Repos\hotwebmatter\Books\obj\Debug\Books.pdb
