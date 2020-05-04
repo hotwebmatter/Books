@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Books
-=======
 # Books
 
 Assignment 9 for Advanced C# class.
